@@ -1,0 +1,10 @@
+{
+  "name": "myApp",
+  "version": "1.1.0",
+  "description": "school project",
+  "main": "index.html",
+  "author": "Stef Vanremoortele",
+  "dependencies": {
+    "sw-toolbox": "^3.6.0"
+  }
+}
